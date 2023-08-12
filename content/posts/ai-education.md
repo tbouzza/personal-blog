@@ -2,6 +2,7 @@
 title: "Teachers, AI, And The Future: Bridging Human Wisdom and Deep Learning"
 date: 2023-08-12T10:22:35+02:00
 draft: false
+hideFooter: true
 ---
 
 ![cute little girl](https://uploads-ssl.webflow.com/64c0df9d78c7efe44f041afb/64c98c6a921efcf395ee1676_DALL%C2%B7E%202023-08-02%2000.50.10%20-%20bright%20background%20with%20school%20items.png)
