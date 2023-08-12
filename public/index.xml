@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>10101</title>
+    <link>https://tbouzza.github.io/personal-blog/</link>
+    <description>Recent content on 10101</description>
+    <image>
+      <title>10101</title>
+      <url>https://tbouzza.github.io/personal-blog/papermod-cover.png</url>
+      <link>https://tbouzza.github.io/personal-blog/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Aug 2023 10:22:35 +0200</lastBuildDate><atom:link href="https://tbouzza.github.io/personal-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teachers, AI, And The Future: Bridging Human Wisdom and Deep Learning</title>
+      <link>https://tbouzza.github.io/personal-blog/posts/ai-education/</link>
+      <pubDate>Sat, 12 Aug 2023 10:22:35 +0200</pubDate>
+      
+      <guid>https://tbouzza.github.io/personal-blog/posts/ai-education/</guid>
+      <description>Let&#39;s Dream a Bit: What&#39;s Education&#39;s Future Looking Like? Imagine you stumble into a hidden treasure chest, and inside, you find a magical book. But it&amp;rsquo;s not just any old book. This book talks to you, grows with you, teaches you everything you need to know—and I mean everything, from arithmetic to the secrets of the universe. It becomes your mentor, your guide, and your best friend.
+Sound like a fairytale?</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
