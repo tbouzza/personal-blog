@@ -95,7 +95,9 @@ Now, _to keep it simple_; let's just remember that AI does two things very very 
 **B**ut **t**oss **i**n **a** **l**onger **se**ntence **l**ike:
 
 ![long sentence](https://uploads-ssl.webflow.com/64c0df9d78c7efe44f041afb/64ca4893ac73b18df9e4e00c_blog%20piics.002.png)
-**A**nd **t**he **tra**ditional **R**NNs **g**ets **co**nfused. **T**hey **c**an **st**ruggle **w**ith **l**ong **se**quences **o**f **d**ata*. **I**t's **a**kin **t**o **t**rying **t**o **re**member **t**he **be**ginning **o**f **a** **r**eally **l**ong **j**oke; **t**he **fu**rther **y**ou **g**et, **t**he **h**arder **i**t **be**comes **t**o **r**ecall **t**he **s**tart.
+
+And the traditional RNNs gets confused. They can struggle with long sequences of data*. It's akin to trying to remember the beginning of a really long joke; the further you get, the harder it becomes to recall the start.
+
 
 **N**ow, **w**hen **pro**cessing **seq**uential **d**ata, **n**o **m**atter **h**ow **g**ood **t**he **me**mory, **a**t **s**ome **p**oint, **th**ere's **a** **l**oss **o**f **im**portant **inf**ormation **t**hat **af**fects **t**he **und**erstanding **o**f **t**he **und**erlying **dy**namics.
 
