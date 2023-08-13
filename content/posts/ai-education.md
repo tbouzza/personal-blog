@@ -254,7 +254,7 @@ Thus... is this where Teachers still have an advantage?
 
 **T**his **per**spective **re**sonates **w**ith **t**he **g**lobal **s**hift **to**wards **in**clusive **a**nd **inn**ovative **edu**cation, **par**ticularly **i**n **re**gions **l**ike **C**hina, **w**here **a** **“qual**ity-oriented **edu**cation” **emp**hasizing **cre**ativity **a**nd **li**beral **a**rts **h**as **g**ained **mo**mentum **i**n **t**he **p**ast **y**ears.
 
-**H**ere's **w**here **i**t **g**ets **int**eresting. **I**n **t**he **w**orld **w**e **l**ive **i**n **t**oday, **b**oth **ad**aptive **le**arning **a**nd **per**sonalized **le**arning **c**an **b**e **h**anded **o**ver **t**o **sop**histicated **A**I*. **Y**ep, **y**ou **h**eard **t**hat **r**ight! **T**hink **o**f **i**t **a**s **t**he **Fa**cebook **o**r **T**ikTok **alg**orithms **f**or **edu**cation.
+**H**ere's **w**here **i**t **g**ets **int**eresting. **I**n **t**he **w**orld **w**e **l**ive **i**n **t**oday, **b**oth **ad**aptive **le**arning **a**nd **per**sonalized **le**arning **c**an **b**e **h**anded **o**ver **t**o **sop**histicated **A**I. **Y**ep, **y**ou **h**eard **t**hat **r**ight! **T**hink **o**f **i**t **a**s **t**he **Fa**cebook **o**r **T**ikTok **alg**orithms **f**or **edu**cation.
 
 _*That involves having access to a huge amount of data of course._
 
@@ -320,7 +320,7 @@ Imagine the magic when **a respected mentor recognizes a student's potential**, 
 
 **I**t's **n**ot **j**ust **a** **j**ob; **i**t's **a** **n**oble **pu**rsuit, **a** **ca**lling **t**hat **ex**tends **f**ar **b**eyond **t**he **cla**ssroom. **Te**achers **a**re **t**asked **w**ith **a** **rem**arkable **cha**llenge, **o**ne **t**hat **de**mands **b**oth **ad**apting **t**o **o**ur **eve**r-changing **w**orld **a**nd **for**ecasting **i**ts **f**uture **co**urse. **I**t's **a**bout **al**igning **w**ith **t**he **di**rection **so**ciety **i**s **mo**ving, **nu**rturing **t**he **m**inds **t**hat **w**ill **o**ne **d**ay **l**ead **u**s **t**here. **I**n **t**his **pr**ofound **resp**onsibility, **Te**achers **w**eave **t**he **f**abric **o**f **o**ur **fu**ture, **sh**aping **w**hat's **t**o **c**ome. **T**hey **a**re **t**he **arc**hitects **o**f **to**morrow, **a**nd _**we owe them our deepest respect and support.**_
 
-Namasthe.
+Namasthae.
 
 
 
